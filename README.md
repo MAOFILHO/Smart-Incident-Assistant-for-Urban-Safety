@@ -153,7 +153,7 @@ smart-incident-assistant/
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/smart-incident-assistant.git
+git clone https://github.com/MAOFILHO/Smart-Incident-Assistant-for-Urban-Safety.git
 cd smart-incident-assistant
 ```
 
